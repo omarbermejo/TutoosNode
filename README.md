@@ -1,12 +1,12 @@
-#TutoosNode
+# TutoosNode
 
 Repositorio de prácticas y tutoriales con **Node.js**, enfocado en conceptos básicos e intermedios usando **JavaScript**.
 
 La idea de este proyecto es ir construyendo ejemplos por **clases / sesiones**, para aprender y reforzar conceptos de backend con Node.
 
 ---
-
-##Requisitos
+ 
+## Requisitos
 
 Antes de comenzar asegúrate de tener instalado:
 
@@ -16,7 +16,7 @@ Antes de comenzar asegúrate de tener instalado:
 
 ---
 
-##Instalación
+## Instalación
 
 Clona el repositorio:
 
@@ -31,7 +31,7 @@ Instala dependencias (si tu clase/proyecto lo incluye):
 npm install
 ```
 
->Nota: Algunas carpetas pueden ser ejemplos simples sin dependencias.
+> Nota: Algunas carpetas pueden ser ejemplos simples sin dependencias.
 
 ---
 
@@ -62,7 +62,7 @@ node index.js
 
 ---
 
-##Estructura del repositorio
+## Estructura del repositorio
 
 ```bash
 TutoosNode/
