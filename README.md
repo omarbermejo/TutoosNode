@@ -111,6 +111,6 @@ Si quieres mejorar el repo o agregar más ejemplos:
 
 ---
 
-##Licencia
+## Licencia
 
 Este proyecto es de uso libre para fines educativos.
