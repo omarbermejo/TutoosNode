@@ -76,7 +76,7 @@ TutoosNode/
 └── .vscode/       # Configuración de VSCode (opcional)
 ```
 
-> Con el tiempo puedes ir agregando más carpetas como: `class 2`, `class 3`, etc.
+> Con el tiempo puedes ir agregando más carpetas como: `class 4`, `class 5`, etc.
 
 ---
 
