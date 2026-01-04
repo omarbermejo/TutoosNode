@@ -67,8 +67,13 @@ node index.js
 ```bash
 TutoosNode/
 │
-├── class 1/          # Ejercicios y código de la primera clase
-└── .vscode/          # Configuración de VSCode (opcional)
+├── class 1/      # Ejercicios y código de la primera clase
+│
+├── class 2/      # Principos de HTTP para las peticiones
+│
+├── class 3/      # Levantamiento de un servidor web en ExpressJS 
+│       
+└── .vscode/       # Configuración de VSCode (opcional)
 ```
 
 > Con el tiempo puedes ir agregando más carpetas como: `class 2`, `class 3`, etc.
